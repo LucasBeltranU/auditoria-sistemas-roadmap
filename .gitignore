@@ -1,0 +1,15 @@
+# ISO and virtual machine artifacts
+ISOs/
+Laboratorios/VMs/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# VS Code
+.vscode/
+
+# Optional local notes and caches
+*.log
